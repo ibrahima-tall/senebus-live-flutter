@@ -1,0 +1,6 @@
+{
+  "name": "Sénégal Bus Horaires",
+  "description": "Application en temps réel pour consulter les horaires et trajets de bus au Sénégal (Dakar Dem Dikk, AFTU, Dem Dikk interurbain) avec projet de code source Flutter/Dart complet prêt à l'export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
