@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "835328440284",
+    "project_id": "bustime-senegal-2026-dc2c9",
+    "storage_bucket": "bustime-senegal-2026-dc2c9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835328440284:android:d4f894f0666a582c2c8119",
+        "android_client_info": {
+          "package_name": "com.example.senebus_live"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUCoSV8HLQgFDX5_2kNCA0-2v7B5HeEj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835328440284:android:ac8e9847399761ec2c8119",
+        "android_client_info": {
+          "package_name": "com.ibrahimatail.bustime.bustime_senegal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUCoSV8HLQgFDX5_2kNCA0-2v7B5HeEj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
