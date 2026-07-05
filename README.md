@@ -1,17 +1,86 @@
-# senebus_live
+🚌 Senebus Live Flutter
 
-A new Flutter project.
+📖 Présentation du projet
 
-## Getting Started
+Senebus Live est une application mobile développée avec Flutter et Firebase, conçue pour améliorer la mobilité urbaine au Sénégal, notamment dans la ville de Dakar.
 
-This project is a starting point for a Flutter application.
+L'application permet aux usagers de consulter les lignes de bus, les arrêts, les itinéraires ainsi que les horaires en temps réel afin de mieux planifier leurs déplacements quotidiens.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+✨ Fonctionnalités
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 📍 Consultation des lignes de bus
+- 🚌 Affichage des arrêts
+- 🗺️ Itinéraires des lignes
+- ⏰ Horaires en temps réel
+- 🔎 Recherche par ligne ou par arrêt
+- ❤️ Gestion des favoris
+- 🔔 Notifications Firebase
+- 🌙 Mode sombre
+- 📱 Interface moderne
+
+---
+
+ 🛠️ Technologies utilisées
+
+- Flutter
+- Dart
+- Firebase Authentication
+- Cloud Firestore
+- Firebase Storage
+- Google Maps
+- Android Studio
+- Git
+- GitHub
+
+---
+
+ 📂 Structure du projet
+
+```
+lib/
+android/
+ios/
+linux/
+macos/
+web/
+windows/
+pubspec.yaml
+firebase.json
+README.md
+```
+
+---
+
+ Installation
+
+```bash
+git clone https://github.com/ibrahima-tall/senebus-live-flutter.git
+
+cd senebus_live
+
+flutter pub get
+
+flutter run
+```
+
+---
+
+ Captures d'écran
+
+À venir...
+
+---
+
+👨‍💻 Auteur
+
+**Ibrahima Tall**
+
+Projet réalisé dans le cadre d'un stage de fin d'études.
+
+---
+
+# 📄 Licence
+
+Ce projet est destiné à un usage pédagogique.
