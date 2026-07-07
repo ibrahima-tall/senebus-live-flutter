@@ -20,8 +20,7 @@ Développé avec **Flutter** et **Firebase**
 
 # 📖 Présentation
 
-**Senebus Live** est une application mobile développée avec **Flutter** et **Firebase** dans le cadre de mon **projet de fin de stage** pour l'obtention du diplôme de **Technicien Supérieur en Développement Web et Mobile** à **ISEP Thiès**.
-
+**Senebus Live** est une application mobile développée avec **Flutter** et **Firebase** dans le cadre de mon **projet de fin de stage** réalisé par **Ibrahima Tall**, apprenant en **Développement Web et Mobile** à **ISEP Thiès**.
 L'objectif de cette application est de faciliter les déplacements des usagers en leur permettant de consulter les lignes de bus, les arrêts et les horaires depuis leur smartphone grâce à une interface moderne, rapide et intuitive.
 
 ---
@@ -66,7 +65,7 @@ L'objectif de cette application est de faciliter les déplacements des usagers e
 # 📂 Structure du projet
 
 ```text
-flutter_project/
+senebus-live-flutter/
 
 ├── android/
 ├── ios/
@@ -124,17 +123,13 @@ Puis lancer l'application :
 ```bash
 flutter run
 ```
-
----
-
-
 ---
 
 # 👨‍💻 Auteur
 
 **Nom :** Ibrahima Tall
 
-**Formation :** Technicien Supérieur en Développement Web et Mobile
+**Formation :** Développement Web et Mobile
 
 **Établissement :** ISEP Thiès
 
