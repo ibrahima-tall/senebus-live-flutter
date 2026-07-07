@@ -102,11 +102,11 @@ La documentation complète du projet est disponible dans le dossier **docs**.
 # 🚀 Installation
 
 ```bash
-git clone https://github.com/VOTRE-UTILISATEUR/flutter_project.git
+git clone https://github.com/ibrahima-tall/senebus-live-flutter.git
 ```
 
 ```bash
-cd flutter_project
+cd senebus-live-flutter
 ```
 
 ```bash
